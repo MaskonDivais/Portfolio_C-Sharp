@@ -1,0 +1,11 @@
+/out:"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x86\Release\ilc\intermediate\\"
+/ref:"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x86\Release\ilc\intermediate\TransformedSRWR"
+/ref:"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x86\Release\ilc\in"
+/ref:"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\PC\.nuget\packages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\lib\Private\\"
+/ref:"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\PC\.nuget\packages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\csc"

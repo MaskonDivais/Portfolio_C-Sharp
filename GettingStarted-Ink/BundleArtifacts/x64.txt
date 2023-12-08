@@ -1,0 +1,6 @@
+MainPackage=C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\bin\x64\Release\GettingStarted-Ink_1.0.0.0_x64.appx
+SymbolPackage=C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\AppPackages\GettingStarted-Ink_1.0.0.0_Test\GettingStarted-Ink_1.0.0.0_x64.appxsym
+ResourcePack=C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\bin\x64\Release\GettingStarted-Ink_1.0.0.0_scale-100.appx
+ResourcePack=C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\bin\x64\Release\GettingStarted-Ink_1.0.0.0_scale-125.appx
+ResourcePack=C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\bin\x64\Release\GettingStarted-Ink_1.0.0.0_scale-150.appx
+ResourcePack=C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\bin\x64\Release\GettingStarted-Ink_1.0.0.0_scale-400.appx

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\bin\x86\Release\GettingStarted-Ink_1.0.0.0_x86.appx
+SymbolPackage=C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\AppPackages\GettingStarted-Ink_1.0.0.0_Test\GettingStarted-Ink_1.0.0.0_x86.appxsym

@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\PC\.nuget\packages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x64\Release\ilc\intermediate\MDIL\GettingStarted-Ink.mdilexe"
+"/i:C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x64\Release\ilc\intermediate\Native\GettingStarted-Ink.exe"
+"/pdbAltPath:C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\bin\x64\Release\ilc"
+"/res:C:\Users\PC\Desktop\Distance Learning Odessa College_All\GettingStarted-Ink\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\PC\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.3\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

@@ -1,0 +1,42 @@
+C:\Users\PC\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.exe.config
+C:\Users\PC\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.exe
+C:\Users\PC\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.pdb
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\TextControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\Interop.MSHTML.dll
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.exe
+C:\Users\PC\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.pdb
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\bin\Debug\LiveSwitch.TextControl.exe.config
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\bin\Debug\LiveSwitch.TextControl.exe
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\bin\Debug\LiveSwitch.TextControl.pdb
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\TextControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\Interop.MSHTML.dll
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\TextControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\TextControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.exe
+C:\Users\PC\Desktop\Windows-tutorials-inputs-and-devices-master\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.pdb
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\bin\Debug\LiveSwitch.TextControl.exe.config
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\bin\Debug\LiveSwitch.TextControl.exe
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\bin\Debug\LiveSwitch.TextControl.pdb
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\TextControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\Interop.MSHTML.dll
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\TextControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\TextControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.exe
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Debug\LiveSwitch.TextControl.pdb

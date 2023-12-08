@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\bin\Release\LiveSwitch.TextControl.exe.config
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\bin\Release\LiveSwitch.TextControl.exe
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\bin\Release\LiveSwitch.TextControl.pdb
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\Interop.MSHTML.dll
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\TextControl.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\LiveSwitch.TextControl.Editor.resources
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\TextControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\TextControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\LiveSwitch.TextControl.exe
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\LiveSwitch.TextControl.pdb
+C:\Users\PC\Desktop\Distance Learning Odessa College_All\Distance Learning Odessa College\TextControl\obj\Release\TextControl.csprojAssemblyReference.cache
